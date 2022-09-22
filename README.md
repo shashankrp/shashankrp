@@ -10,9 +10,9 @@
 <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
 </a>
 </p>
-- I work at Voicera Analytics <br>
-- I contribute over Github <br>
-- I read books about ethical hacking<br>
+- I currently work at Voicera Analytics <br>
+- I like to contribute over Github <br>
+- I like to read books about ethical hacking<br>
 - I love long walks + long journey rides<br>
  <h2 align="left" id="shashanktechno">Favorite Tech</h2>
  > Tools, languages, and other things that I like to work with.
