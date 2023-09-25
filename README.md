@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hi , नमस्ते, ನಮಸ್ಕಾರ! </h1>
 <h1 align="left" id="macropower-title">I'm Shashank R P</h1>
-<h3 align="left">I am a Security Researcher, Pen-Tester and Cod3r</h3>
+<h3 align="left">I am a Cod3r a Cyber Security enthusiast</h3>
  <p align="left">
 <a href="https://github.com/shashankrp">
 <img src="https://komarev.com/ghpvc/?username=shashankrp" alt="page views" />
